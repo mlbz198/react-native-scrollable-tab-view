@@ -13,7 +13,7 @@ const {
   InteractionManager,
 } = ReactNative;
 const TimerMixin = require('react-timer-mixin');
-imported ViewPagerAndroid from '@react-native-community/viewpager'
+import ViewPagerAndroid from '@react-native-community/viewpager'
 
 const SceneComponent = require('./SceneComponent');
 const DefaultTabBar = require('./DefaultTabBar');
